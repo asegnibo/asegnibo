@@ -1,3 +1,6 @@
+<!--<img src="images/Hello.gif" alt="Hello I'm Ashton" />-->
+
+
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
