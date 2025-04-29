@@ -33,7 +33,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asegnibo)
 
 ##
-![Snake animation](https://github.com/asegnibo)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asegnibo/asegnibo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asegnibo/asegnibo/output/github-contribution-grid-snake.svg">
