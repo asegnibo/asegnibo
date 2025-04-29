@@ -1,4 +1,4 @@
-<img src="images/Hello.gif" alt="Hello I'm Ashton" />
+<img src="images/profile1.gif" alt="Hello I'm Ashton" />
 
 
 ## Hi there 👋
