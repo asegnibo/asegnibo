@@ -38,7 +38,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)-->      
 <h3 align="center">
   <strong>Contact Me</strong><br/>
-</h3>
+</h3> 
 
 <p align="center">
   <a href="mailto:ashton.segnibo@usp.br" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>  <a href="https://discord.gg/7xRF7qRZ" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>  <a href="https://instagram.com/asegnibo" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>  <a href="https://www.linkedin.com/in/asegnibo/" style="text-decoration: none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <a href="https://wa.me/5511947761508" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>  <a href="https://www.kaggle.com/asegnibo" style="text-decoration: none;"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
