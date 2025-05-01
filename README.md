@@ -52,3 +52,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asegnibo/asegnibo/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asegnibo&repo=bot_guitar_flash)](https://github.com/asegnibo/bot_guitar_flash)-->
