@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=asegnibo&count_private=false&show_icons=true&theme=gruvbox_light&include_all_commits=true" alt="GitHub stats" width="800"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=asegnibo&count_private=true&show_icons=true&theme=gruvbox_light&include_all_commits=true" alt="GitHub stats" width="800"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
