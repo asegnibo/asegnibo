@@ -45,7 +45,8 @@
 </p>
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asegnibo)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asegnibo&show_icons=true&include_all_commits=true)
 <!--! <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asegnibo/asegnibo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asegnibo/asegnibo/output/github-contribution-grid-snake.svg">
