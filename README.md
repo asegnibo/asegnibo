@@ -1,7 +1,7 @@
 <img src="images/profile1.gif" alt="Hello I'm Ashton" />
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-khaki.vercel.app?user=Stats%20me&theme=yellowdark&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-khaki.vercel.app?user=break&theme=yellowdark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ##
