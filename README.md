@@ -1,7 +1,7 @@
 <img src="images/profile1.gif" alt="Hello I'm Ashton" />
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-khaki.vercel.app?user=break&theme=yellowdark&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-khaki.vercel.app?user=asegnibo&theme=yellowdark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 </div>
 
 ##
@@ -55,7 +55,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)-->      
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)-->    
 <h3 align="center">
   <strong>Contact Me</strong><br/>
 </h3> 
